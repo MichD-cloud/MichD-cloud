@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on becoming a seasoned data analyst
 - 🌱 I’m currently learning more data analytic tools and Cyber Security
-- 👯 I’m looking to collaborate on upskilling and Learning new skills
+- 👯 I’m looking to collaborate on upskilling and career development
   
 ### Data analysis Projects
 
