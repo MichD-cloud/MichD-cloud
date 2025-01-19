@@ -1,5 +1,7 @@
 ## Hi, I'm Duncan
 
+Aspiring Data Analyst | Analytical Thinker | Problem Solver Passionate about uncovering insights and transforming data into actionable strategies.
+
 - 🔭 I’m currently working on becoming a seasoned data analyst
 - 🌱 I’m currently learning more data analytic tools and Cyber Security
 - 👯 I’m looking to collaborate on upskilling and career development
